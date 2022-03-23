@@ -1,3 +1,3 @@
 # quiz-project
 
-This project allows a user to play a quiz game.
+This OOP script allows user to play a quiz game.
